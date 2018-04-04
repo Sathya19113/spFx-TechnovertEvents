@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "technovert-events-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/technovertEvents/TechnovertEventsWebPart.js",
+          "manifest": "./src/webparts/technovertEvents/TechnovertEventsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TechnovertEventsWebPartStrings": "lib/webparts/technovertEvents/loc/{locale}.js"
+  }
+}

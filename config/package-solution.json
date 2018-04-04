@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "technovert-events-client-side-solution",
+    "id": "34affbf0-2d27-45cc-810d-d95533b9406f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/technovert-events.sppkg"
+  }
+}

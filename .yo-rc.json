@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "technovert-events",
+    "libraryId": "34affbf0-2d27-45cc-810d-d95533b9406f",
+    "environment": "spo"
+  }
+}
